@@ -10,7 +10,7 @@ body {
     justify-content: center;
     height: 100vh;
     background-color: hsl(30, 38%, 92%);
-     font-family: "Montserrat", sans-serif;
+    font-family: "Montserrat", sans-serif;
 }
 
 .card {
@@ -50,7 +50,7 @@ body {
     font-size: 12px;
 
 }
- 
+
 .text h1 {
     font-family: "Fraunces", serif;
     font-weight: 700;
@@ -60,11 +60,11 @@ body {
 
 }
 
-.text .desc{
+.text .desc {
     padding: 20px 0;
     display: flex;
     align-items: center;
-    color: hsl(228,12%,48%);
+    color: hsl(228, 12%, 48%);
     font-size: .8rem
 }
 
@@ -75,18 +75,19 @@ body {
     font-weight: 700;
     display: flex;
     align-items: center;
-     font-family: "Fraunces", serif;
+    font-family: "Fraunces", serif;
 }
-.text .amount span{
+
+.text .amount span {
     text-decoration: line-through;
     color: hsl(228, 12%, 48%);
     font-size: .8rem;
     margin-left: 14px;
-     font-family: "Montserrat", sans-serif;
+    font-family: "Montserrat", sans-serif;
 }
 
 .text button {
-    background-color:hsl(158, 36%, 37%);
+    background-color: hsl(158, 36%, 37%);
     outline: none;
     border: none;
     width: 100%;
